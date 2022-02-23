@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An epistle to Charles the Second, King of England and to every individual member of his council / presented to them in pure love and good will, that they might consider of the things therein contained before the King was crowned or had taken his oath, forasmuch as a necessity from the Lord was laid upon the pen-man ... who is known ... by the name of Christopher Cheesman ; from the town of Reading in Berkshire the 15 of the 2d. month, 1661.</title>
+            <author>Cheesman, Christopher.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32781</idno>
+            <idno type="STC">Wing C3773</idno>
+            <idno type="STC">ESTC R35568</idno>
+            <idno type="EEBO-CITATION">15367321</idno>
+            <idno type="OCLC">ocm 15367321</idno>
+            <idno type="VID">103524</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32781)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103524)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1148:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An epistle to Charles the Second, King of England and to every individual member of his council / presented to them in pure love and good will, that they might consider of the things therein contained before the King was crowned or had taken his oath, forasmuch as a necessity from the Lord was laid upon the pen-man ... who is known ... by the name of Christopher Cheesman ; from the town of Reading in Berkshire the 15 of the 2d. month, 1661.</title>
+                  <author>Cheesman, Christopher.</author>
+               </titleStmt>
+               <extent>[22], 190 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Reading? :</pubPlace>
+                  <date>1661?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Imperfect: print show-through with loss of print.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Establishment and disestablishment.</term>
+               <term>Episcopacy --  Controversial literature.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:103524:1"/>
+            <head>AN EPISTLE TO Charles the ſecond King of <hi>ENGLAND,</hi> And to every individual Member of His COUNCIL.</head>
+            <head type="sub">Preſented to them in pure love and good will, that they might conſider of the things herein contained before the <hi>King</hi> was Crowned, or had taken his Oath; foraſmuch as a neceſſity from the Lord was laid upon the Pen-man of the ſaid <hi>Epiſtle,</hi> in order there<g ref="char:EOLhyphen"/>to. Who is known to diverſe people by the name of <hi>Chriſtopher Cheeſman.</hi>
+            </head>
+            <opener>
+               <dateline>From the Town of <hi>Reading</hi> in <hi>Berkſhire</hi> 
+                  <date>the 15. of the 2d. month, 1661.</date>
+               </dateline>
+            </opener>
+            <p>GIve ear, O King, and hearken to Counſel, let thy heart be inclined to underſtanding, and diligently conſi<g ref="char:EOLhyphen"/>der the things that concern thy everlaſting Peace, and the well-being of all people under thy Government. And Oh you Counſellors of the King, know you this, that the God of <hi>Iſrael,</hi> who governs in the Heavens, &amp; in the earth, hath appeared in theſe Nations, in the abſence of the King, and ſince his Fathers dayes, to bring to paſſe his great work, in <hi>per<g ref="char:EOLhyphen"/>formance</hi> of his <hi>promiſes,</hi> and <hi>returning</hi> the <hi>captivity</hi> of his <hi>people,</hi> who have been many Ages paſt moſt <hi>cruelly afflicted</hi> and <hi>oppreſ<g ref="char:EOLhyphen"/>ſed</hi> under <hi>Pharaohs hard Task-maſters,</hi> who have exerciſed <hi>Au<g ref="char:EOLhyphen"/>thority</hi> over their <hi>Conſciences</hi> But now the Lord God is come <hi>to deliver his Iſrael</hi> in <hi>the Spirit,</hi> by the hand of the <hi>Great Pro<g ref="char:EOLhyphen"/>phet</hi> that <hi>Moſes propheſied</hi> of, ſaying, <hi>The Lord your God ſhall raiſe up a PROPHET like unto me; one from among your brethren, him ſhall you hear in all things: And whoſoever ſhall withdraw his ear from hearing that Prophet, ſhall be cut off from among the people.</hi> This is <hi>the Prophet,</hi> O <hi>King and Council,</hi> that is <hi>worthy to reign,</hi> and by the Hand of <hi>this Prophet</hi> will the Lord <hi>bring to paſs the purpoſes of his heart,</hi> and will ſet up <hi>Justice</hi> and <hi>Righteouſ<g ref="char:EOLhyphen"/>neſs, in the Earth:</hi> and who ever they be that will not <hi>bow
+<pb n="2" facs="tcp:103524:2"/> down</hi> and <hi>hearken</hi> to this <hi>Prophet</hi> (whether <hi>King, Councils, Par<g ref="char:EOLhyphen"/>liaments, Armies, Synods,</hi> or <hi>others</hi>) ſhall aſſuredly <hi>be deſtroyed</hi> and <hi>cut off</hi> from among the people. For this <hi>Great Prophet</hi> of whom <hi>Mo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es</hi> ſpake, is the <hi>only begotten of God,</hi> the <hi>Chriſt,</hi> the <hi>Saviour,</hi> the <hi>Light of the World that enlightneth every one that cometh into the World.</hi> This is he, O <hi>King</hi> and <hi>Council</hi> that the Lord God hath raiſed up in theſe. Nations ſince thy <hi>Fathers daies,</hi> and in thy <hi>abſence,</hi> and he alone is worthy <hi>to Reign</hi> (not <hi>Synods,</hi> not <hi>Hire<g ref="char:EOLhyphen"/>ling Miniſters</hi>) and thouſands there be within thy Dominions, O King, that have received this <hi>great Prophet</hi> and <hi>true Light,</hi> and a good underſtanding thereby (Glory, glory to the Lord God for evermore) and now are making <hi>War</hi> with the Na<g ref="char:EOLhyphen"/>tions in <hi>Righteouſneſſe;</hi> and in particular with thee, O <hi>King,</hi> and with thy <hi>Council;</hi> not with <hi>Sword,</hi> nor <hi>Spear,</hi> nor <hi>plot<g ref="char:EOLhyphen"/>tings,</hi> nor <hi>Combinations,</hi> to hurt thee, O King, or any of thy <hi>family</hi> or <hi>people,</hi> nor any ways ſeeking to remove thee from thy Crown and Dignity, but with the Spirit of God ſtriving to eſtabliſh thy <hi>Throne</hi> in <hi>Righteouſneſſe,</hi> and to <hi>Crown thee</hi> with <hi>ever<g ref="char:EOLhyphen"/>laſting Honour</hi> and <hi>Dignity.</hi> And know this, O <hi>King</hi> and <hi>Council,</hi> that the <hi>people</hi> and <hi>ſervants of the Lord</hi> do not ſtrive againſt <hi>fleſh</hi> and <hi>blood,</hi> neither are their weapons <hi>carnal,</hi> but <hi>Spiritual,</hi> and <hi>mighty through God</hi> to make war with the man of ſin in all his <hi>appearances</hi> and <hi>forms of Governments,</hi> whether <hi>Presbytery,</hi> or <hi>Epiſcopacy,</hi> or any other <hi>Antichriſtian Form,</hi> which muſt all be thrown down in this day of the Lords mighty power, where<g ref="char:EOLhyphen"/>in he hath made bare, and will yet more and more make bare his Arm, and his <hi>power</hi> and <hi>authority</hi> ſhall be known againſt the <hi>Hierarchy</hi> of <hi>Antichriſt,</hi> in the <hi>utter deſtruction thereof,</hi> the Lord will <hi>daſh to pieces</hi> all the <hi>Powers</hi> and <hi>authorities</hi> of the earth that ſtand in his way, or any way ſeek to uphold the King<g ref="char:EOLhyphen"/>dom and Authority of the <hi>Beaſt,</hi> and of the falſe Prophet which is full of darkneſs. And the Lord God will bring in his <hi>Kingdom of Righteouſneſſe</hi> which he hath begun to <hi>ſet up,</hi> and the ſame <hi>will finiſh,</hi> though it be to the everlaſting deſtruction of all <hi>Earthly Potentates</hi> and <hi>people</hi> that ſtand in oppoſition thereto.</p>
+            <p>Therefore, O King, take heed what thou doſt in this thy day, and power; and O Council of the King, take heed leaſt you counſel the King either to <hi>ſwear,</hi> or to go about <hi>to eſtabliſh,</hi> or <hi>ſet up the Kingdom of Antichriſt,</hi> under any form whatſoever,
+<pb n="3" facs="tcp:103524:2"/> whether <hi>Epiſcopacy,</hi> or <hi>Presbytery,</hi> or any other; for aſſured<g ref="char:EOLhyphen"/>ly if you ſo do, it will be the utter <hi>deſtruction</hi> both of <hi>You,</hi> and <hi>Your King.</hi> And again I ſay, Oh <hi>King</hi> and <hi>Councel</hi> take heed: for your Enemy, and the Enemy of mans ſalvation is very active in this day, and will <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot ceaſe tempting of you both within and without to make <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou Inſtruments to obſtruct the work of the Lord to whoſe temptations if you yield the Lord will daſh you to pieces, and ſo you will become miſerable as thoſe that are gone before you.</p>
+            <p>And Oh King! in the fear and dread of the Lord, prize thy time, and the Lords mercies towards thee and thy family; for they have been very great in this day of thy viſitation, wherein the Lord hath not been wanting to thee, but hath ſent his ſer<g ref="char:EOLhyphen"/>vants time after time to Counſel thee, and to forewarn thee, of the ſore Judgements that are haſtening upon theſe Nati<g ref="char:EOLhyphen"/>ons for the wickedneſſe thereof.</p>
+            <p>And the Lord God hath been ſtriving with thee, not only by his ſpirit in his Miniſters and Servants, But his witneſs in thine own Conſcience alſo ſince he hath ſet thee upon thy Fa<g ref="char:EOLhyphen"/>thers Throne.</p>
+            <p>And my ſelf as one of the leaſt to whom the Lord hath ſhew<g ref="char:EOLhyphen"/>ed mercy in bringing me into the good Land, wherein every one that is faithful, receiveth of the fruits and increaſe there<g ref="char:EOLhyphen"/>of and drink of the pleaſent ſtreams that therein run, which more refreſh then all the increaſe of earthly treaſure; do now in obedience to the motions of Gods Spirit, and in his fear and dread, give in my teſtimony before thee O <hi>King,</hi> and before <hi>thy Counſel,</hi> for the Lord God, though King of kings, yet not O<g ref="char:EOLhyphen"/>beyed by the people out of his fear and teachers of theſe Na<g ref="char:EOLhyphen"/>tions, and for his truth that is fallen in the Gates, and for his people though harmleſſe and juſt, yet more oppreſſed than any other people in the Nations by reaſon of the <hi>hireling Miniſtry</hi> which teach the people to err, and are Enemies to Gods truth and people.</p>
+            <p>Know this now therefore, O King, that if thou wilt not Re<g ref="char:EOLhyphen"/>gard the Lord Gods ſtriving with thee, by his Servants, nor hearken to nor return at the reproofs of Gods witneſſe in thy own conſcience, then the Lord will with hold his ſervants from thee, and his ſpirit from ſtriving with thee, and give thee up to hardneſs of hea<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t; and then thou wilt be ruled by blood-thirſty
+<pb n="4" facs="tcp:103524:3"/> men (enemies to Gods truth &amp; his people) who will cauſe thee to do ſuch things which may be was once far from thy heart to do; &amp; then the Lord God, who reſpects no mans perſon, will ſmite thee and them with a very terrible overthrow, and utter ruin and deſtruction, as he hath done to thoſe that hath gone before thee, who would not hearken to Gods ſervants nor Re<g ref="char:EOLhyphen"/>turn at his reproofs. For known be it to thee O King, God did not remove thoſe men from the throne of Government in theſe Nations, for their well doing but for their evil, for their unrighteous and unjuſt actions, becauſe they Governed not for God; and therefore as the Kingdoms of the Earth are the Lords, ſo he diſpoſeth of them as he pleaſeth: He plucks down the Governours therein, whoſe actions proclaims them Tray<g ref="char:EOLhyphen"/>tors to their Lord and Maſter who intruſted them, and ſet up others to try them alſo, whether they will obey and do his commands and the things that he delights in: To wit, <hi>Mercy</hi> and <hi>Juſtice,</hi> true <hi>Judgement</hi> and <hi>Righteouſneſſe,</hi> and the contra<g ref="char:EOLhyphen"/>ry he denys with the workers thereof, from the higheſt to the loweſt. And ſo when that wicked and perfideous Generation of men, would by no means be reformed, then the wrath of the Lord was kindled, and his decree went forth againſt them; And ſo they were daſhed in pieces even like a Potters Veſſel; 'twas their wickedneſs cauſed them to fall, &amp; nothing elſe; for they ſtill obſtructed the Lords work, and yet he bore with them a long time, and would not that any ſhould break them to pieces, but diſappointed <hi>all plottings</hi> and <hi>combinations</hi> againſt them from time to time, and alſo councelled them by his <hi>Mini<g ref="char:EOLhyphen"/>ſters</hi> &amp; <hi>Servants,</hi> which he ſent unto them, and did warn them of the evil that fell upon them long before it came, and Re<g ref="char:EOLhyphen"/>proved them of their evil deeds, and divers times ſuffered their own ſervants to take their power from them, and then they lay under ſhame and Contempt for ſome time, and then Re<g ref="char:EOLhyphen"/>ſtored to Government again; but ſtill they went on in their evil Practices, being <hi>Coveteous ſelf-ſeeking men,</hi> having a form of Godlineſſe, but denied the power thereof; they were Great <hi>Oppreſſors</hi> and <hi>Hard Hearted men;</hi> And Impriſoned the <hi>Mini<g ref="char:EOLhyphen"/>ſters</hi> and <hi>Servants of the Lord;</hi> And maintained an <hi>Idle, Droniſh, Idolatrous, Hireling, Tyth-taking Miniſtry</hi> in the Na<g ref="char:EOLhyphen"/>tions; And ſuffered them to <hi>perſecute, Oppreſſe</hi> and <hi>Afflict</hi> the moſt pretious <hi>Miniſters</hi> and <hi>Servants</hi> of God, whoſe <hi>E<g ref="char:EOLhyphen"/>ſtates</hi>
+               <pb n="5" facs="tcp:103524:3"/> they took <hi>away,</hi> and whoſe <hi>bodies</hi> they <hi>Impriſoned,</hi> and ſome of them moſt cruelly abuſed in priſon, even unto death; (Mark) therefore O King, had the Lord been pleaſed with ſuch things, then doubtleſſe thou and thy party had never returned to Govern in theſe Nations any more; if the Lord had ſeen good that <hi>Oppreſſion</hi> and <hi>Grinding the faces of the poor,</hi> and maintaining <hi>a Hireling Miniſtry,</hi> and forcing the people of God <hi>to pay Tithes,</hi> and <hi>perſecuting,</hi> and <hi>Impriſoning</hi> of Gods <hi>Miniſters</hi> and <hi>Servants</hi> ſhould have continued in theſe Nati<g ref="char:EOLhyphen"/>ons, then thoſe men (which he removed to bring thee in) might have been fit Inſtruments for ſuch a work, and no need for Thee to have been brought in, in ſo eminent a manner, to do the work with which the Spirit of the Lord was bur<g ref="char:EOLhyphen"/>dened and grieved from day to day, and for which his wrath brake forth againſt thoſe men, whoſe names now rot in per<g ref="char:EOLhyphen"/>petual infamy.</p>
+            <p>Thereſore, doth it not concern Thee, O King, and thy Councel to conſider what you are doing? For the Lord is the ſame now as ever he was, and regards not <hi>Kings, Councels, Parliaments, Armies, Protectors,</hi> (ſo called) or any one, more than another, otherwaies then they are found in the path of <hi>Righteouſneſſe, Mercy, and true Judgement.</hi>
+            </p>
+            <p>Therefore, <hi>Awake, Awake, O KING,</hi> with Thy <hi>CO<g ref="char:V">Ʋ</g>N<g ref="char:EOLhyphen"/>CEL,</hi> ſtand up, and ſee whereon the Baſis of Thy Kingdom ſtands, leaſt Thy Crown and Dignity fall in the duſt in theſe great Overturnings; for verily, verily there is yet a greater O<g ref="char:EOLhyphen"/>turning then has been, that will ſuddenly come upon theſe Nations: In which <hi>Overturning,</hi> O King, Thou, and Thy party, if you proceed as you have begun, muſt be the very <hi>ſubject matter</hi> of the day, and muſt drink the very <hi>bottom</hi> and <hi>dregs</hi> of that Cup, which all perſons that have miſcarried in Government for divers years paſt have taſted of; for the Lord has tryed you many years by ſore and grievous afflicti<g ref="char:EOLhyphen"/>on, and now hath reſtored you, that all People and Nations may ſee what you will do; And Thou, O King, and thy party, hath begun to ſet up and maintain that <hi>falſe Miniſtry</hi> and <hi>worſhip,</hi> and <hi>Idolatrous practice</hi> and <hi>vain ſports</hi> (for which the wrath of God brake forth about twenty years ſince a<g ref="char:EOLhyphen"/>gainſt thy family) that is to ſay <hi>EPISCOPACY,</hi> with all the <hi>Abominations</hi> both in <hi>Worſhip</hi> and <hi>Practice,</hi> which it brings
+<pb n="6" facs="tcp:103524:4"/> along with it, notwithſtanding the light that ſhines in this day of the Lords mighty power, and this glorious day of vi<g ref="char:EOLhyphen"/>ſitation, wherein the Lord hath admitted you to ſtand for try<g ref="char:EOLhyphen"/>al: And know this, O King! Thy Father and his party deceaſed never ſaw ſuch a day, nor received ſo much mercy (as Thee and thy party that now ſurvives have done) but were in the dark and cloudy day, folded up under the <hi>Hire<g ref="char:EOLhyphen"/>ling Miniſters,</hi> and had not the Miniſters of Chriſt, the light of the world ſent unto them, with meſſage after meſſage, as to Thee and Thy party hath been done, counſelling Thee, O King, and thy Councel to fear God, and to work righteouſ<g ref="char:EOLhyphen"/>neſſe; and the Miniſters and ſervants of the Lord have been faithful unto Thee, O King, in every thing, and in this thing in particular, that is, Thou limit not the Spirit of God in forcing all to worſhip God after the manner of the Nations and Heathen, nor to maintain a <hi>hireling Miniſtry;</hi> for where there is ſuch a thing done by authority, there muſt of neceſſi<g ref="char:EOLhyphen"/>ty follow great ignorance; and groſſe darkneſſe wil ſoon cover the face of ſuch a Nation; for a forced Uniformity in mat<g ref="char:EOLhyphen"/>ters of Gods worſhip, and the <hi>hireling Miniſtrie,</hi> are not of God, but of the devil, not of Chriſt, but Antichriſt; and ſuch a Miniſtry I do affirm, and ſhall maintain, was the cauſe of Thy Fathers fall: for the <hi>hireling Miniſtry</hi> at that time had their hearts full of war, and were divided, and ſo miniſtred death unto the people on both ſides. And if thou, O King, ſhall ſuffer Religion to be eſtabliſhed by a Law, and ſhall force people thereunto, it will be Thy utter ruin, and thou wilt aſſuredly miſcarry in Government, as any that hath gone before thee.</p>
+            <p>And this I declare to thee in tender love and pity towards thee, and likewiſe exhort thee in the fear &amp; dread of the Lord God that thou ſwear not at all; for if thou doſt, thou breakeſt the Command of Chriſt Jeſus the Light of the World, who is the wiſdom of God <hi>(By whom Princes rule, and the Kings of the earth decree Juſtice)</hi> who ſaid, <hi>Swear not all.</hi> Conſider O King, what advantage is ſwearing to the Juſt man? Will he be the more juſt for ſwearing? Or, is the command of Chriſt of none effect? Nay, O King, the Juſt man need not ſwear, thereby to add to his integrity; nor doth the Unjuſt man any waies abate or deſtroy the deceit or hypocriſie of his wicked heart,
+<pb n="7" facs="tcp:103524:4"/> whereby he may become more juſter by ſwearing. Therefore O King, if thou canſt not do Juſtice and Right for the People over whom God hath made thee chief Ruler and Magiſtrate without ſwearing, thou wilt never be able to do it by Swear<g ref="char:EOLhyphen"/>ing: Nay, O King, but on the contrary, for thee to ſwear that thou wilt maintain ſuch Religion, or do ſuch and ſuch Juſtice for the people, puts thee into an abſolute incapability to do Juſtice, foraſmuch as that thou refuſeth that wiſdom by which Kings decree Juſtice, as aforeſaid, that is, Chriſt Je<g ref="char:EOLhyphen"/>ſus the Wiſdom of God, who ſaid, <hi>Swear not at all,</hi> and ſo ſaid his Apoſtle <hi>James.</hi> And under the Old Covenant, <hi>An Oath was an end to all ſtrife;</hi> but Chriſt the <hi>Oath of God,</hi> and <hi>New-Covenant,</hi> ſaid, <hi>Swear not at all;</hi> and <hi>Chriſt</hi> the <hi>New-Covenant</hi> is the <hi>Prophet</hi> that <hi>Moſes</hi> propheſied of, and ſaid, <hi>whoſoever would not hear him, ſhould be cut off from among the people.</hi>
+            </p>
+            <p>Therefore O King and Council, <hi>ſwear not at all;</hi> neither eſtabliſh Religion by a Law, to force an <hi>
+                  <g ref="char:V">Ʋ</g>niformity</hi> thereunto, nor maintain <hi>a Hireling Miniſtry;</hi> for ſuch a thing was the overthrow, not only of thy Father, but of all that have fol<g ref="char:EOLhyphen"/>lowed after, till thy ſelf by the mighty hand of God wert ſet in the place where now thou art. The <hi>Parliaments, Prote<g ref="char:EOLhyphen"/>ctors,</hi> and <hi>Armies</hi> were all Swearers, and high pretenders to Religion <hi>in the form,</hi> but nothing <hi>in the power,</hi> but perſecuted all the upright in heart, who were <hi>in the power,</hi> but out of their <hi>Form;</hi> So I ſay, <hi>thoſe Governours</hi> who have miſcarried in Go<g ref="char:EOLhyphen"/>vernment did buſie themſelves very much in matters of God, touching the <hi>Conſciences</hi> of <hi>other men,</hi> whereof they had nothing to do; but in the mean time neglected <hi>the witneſſe</hi> of God in <hi>their own particulars,</hi> and ſo were mindleſſe and careleſs of their duties, as civil Magiſtrates, profeſſing themſelves wiſe, and ex<g ref="char:EOLhyphen"/>alting themſelves into the Temple of God, wherein they had not to do, ſave in their own particulars; They became fools even in the management of their Civil affairs, and ſo laid a ſan<g ref="char:EOLhyphen"/>dy foundation, and like fooliſh builders continued building their own, till ſuch time their building did fall, and great was the fall thereof. And all this did proceed from the Hireling Miniſtry, which hath in all ages brought forth the ſame fruits, being ſtill <hi>fawning upon,</hi> and <hi>tampering</hi> with the <hi>great men</hi> of the Earth, and <hi>Kings,</hi> and <hi>Councils,</hi> and <hi>Parliaments,</hi> and all men in <hi>Authority</hi> to eſtabliſh <hi>Religion,</hi> and to ſettle their <hi>maintenance,</hi>
+               <pb n="8" facs="tcp:103524:5" rendition="simple:additions"/> and then as the Prophet ſaith of them, <hi>He that will not put in<g ref="char:EOLhyphen"/>to their mouths, they preſently make war againſt him:</hi> and this hath been the ſtate and condition of this Nation and others.</p>
+            <p>And therefore, O King, and Council, be wiſe, and learn by other mens harms (who not contenting themſelves in their places, to do the work God ſet them about, but <hi>leaving</hi> their <hi>own work undone,</hi> did intermeddle and buſie themſelves about <hi>Gods work,</hi> and the <hi>Conſciences</hi> of men (of which Chriſt alone is Lord) and for this hath the Lord daſhed them to pie<g ref="char:EOLhyphen"/>ces one after another ſince Thy Fathers dayes. Firſt the <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> then <hi>Protector,</hi> ſo called, and <hi>Protector</hi> again; then <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> then <hi>Army</hi> and <hi>Committee of Safety,</hi> ſo called, then <hi>Par<g ref="char:EOLhyphen"/>liament</hi> again, againſt all which the Lord hath appeared in much ſeverity, and hath removed all out of his way, and hath brought Thee and Thy party into their place and Autho<g ref="char:EOLhyphen"/>rity to try you: Take heed, I ſay, therefore, O King, and Councel of running againſt <hi>this rock,</hi> for if you do, you will aſſuredly be daſh'd to pieces, as they already are; for <hi>falſe worſhip</hi> and <hi>falſe Miniſters muſt down,</hi> and all <hi>that take part with them,</hi> and till that time there will <hi>never be peace on Earth;</hi> for tis the <hi>falſe Miniſtry</hi> that divides the people, and cauſes them to run into factions and diviſions, and that ſets people at variance one with another.</p>
+            <p>The <hi>falſe Miniſtry</hi> O King, thats the evil tree which brings forth bad fruit; And indeed they can do no otherwayes, for they are not of God, but of the evil one. Its clearly ſo, O King, for the tree was to be known by his fruit, and he is now grown ſo big, and his fruit ſo numerous, that one may run and read of what ſort the tree is; and they that ſee it not to be the evil tree, are very near the pit of everlaſting deſtruction.</p>
+            <p>Thou waſt a child O King in thy Fathers dayes, and knew not to what perfection this evil tree was then grown; but with<g ref="char:EOLhyphen"/>draw thy ſelf a little into thy private chamber, &amp; there inquire of the Ancient of dayes, and ask counſel at the Oracle of God, the Light in thine own conſcience, and therewith compare the Doctrine of Chriſt, who is the Word of God, and is very near thee, even in thy heart &amp; in thy mouth, and thou wilt then ſee, hear, and underſtand what Chriſt &amp; his Apoſtles ſaith, and the Prophets before them, concerning the <hi>falſe Prophets,</hi> and the <hi>falſe Miniſters.</hi>
+            </p>
+            <closer>
+               <signed>C. C.</signed>
+            </closer>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+   </text>
+</TEI>
